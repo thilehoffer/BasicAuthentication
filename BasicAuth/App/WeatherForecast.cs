@@ -1,6 +1,6 @@
 using System;
 
-namespace BasicAuth
+namespace BasicAuth.App
 {
     public class WeatherForecast
     {
